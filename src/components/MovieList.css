@@ -1,0 +1,11 @@
+.movieList {
+display: flex;
+flex-wrap: nowrap;
+height: 200px;
+margin-right: 20px;
+scrollbar-width: auto;
+}
+.movieList > img {
+    margin: 10px;
+    display: inline-block;
+}
